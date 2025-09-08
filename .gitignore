@@ -1,0 +1,22 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binaries
+*.test
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (optional)
+vendor/
+
+# VS Code files
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
