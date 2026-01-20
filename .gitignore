@@ -20,3 +20,5 @@ vendor/
 # Temporary files
 *.log
 *.tmp
+
+/pkg
