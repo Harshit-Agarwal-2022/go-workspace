@@ -13,6 +13,8 @@ Each project will live in its own subdirectory.
 - **go-basics** → Simple Go programs to learn syntax and core concepts
 - **lofi-cli** → A CLI app to play random Lofi music 🎵 *(upcoming)*
 - More projects coming soon 🚀
+- **to-do-cli** → A CLI app to manage daily tasks 📃 *(completed)*
+- More projects coming soon 🚀
 
 ## 💡 Goals
 
